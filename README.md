@@ -6,7 +6,7 @@ I enrolled into Udacity's Self-Driving Car Engineer Nanodegree in October 2016 a
   - [Project 1: Finding Lane Lines](#project-1-finding-lane-lines)
   - [Project 2: Traffic Sign Classifier Project](#project-2-traffic-sign-classifier-project)
   - [Project 3: Behavioral Cloning](#project-3-behavioral-cloning)
-    - [Demo 1: Comma.ai](#demo-1-comma-ai)
+    - [Demo 1: Comma.ai](#demo-1-comma.ai)
     - [Demo 2: nVidia](#demo-2-nvidia)
   - [Project 4: Advanced Lane Finding](#project-4-advanced-lane-finding)
     - [Demo: Advanced Lane Finding](#demo-advanced-lane-finding)
